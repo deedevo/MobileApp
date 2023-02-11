@@ -7,5 +7,3 @@ Hello everyone! That’s swift application for selling books, comics online. For
 1. Sign-Up and Log-In page 
 For using that application firstly, you need pass registration or login (if you have account of course).  
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-11 at 00 51 49](https://user-images.githubusercontent.com/97732446/218250762-386d093b-aa40-42c3-b495-8ca06cf34d4a.png)![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-11 at 00 55 09](https://user-images.githubusercontent.com/97732446/218250766-4c540efc-66a7-4caf-a47a-c0b544c985e1.png)
-

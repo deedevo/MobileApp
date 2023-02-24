@@ -24,9 +24,9 @@ For storing emails and passwords I use Firebase. Before coding we should install
 
 2. After signup, you will direct on main page. As I said our app is about bookstore. By clicking item, you can buy book that you want. 
 
-![Uploading Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10.27.56.png…]()
-![Uploading Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10.28.29.png…]()![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 59](https://user-images.githubusercontent.com/97732446/221092051-65e7741e-9458-405e-a39b-a65288c63788.png)
-
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 27 56](https://user-images.githubusercontent.com/97732446/221092354-6a060c3a-afc3-46d2-88c6-93ffe844c32f.png)
+![Uploading Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10.28.29.png…]()
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 59](https://user-images.githubusercontent.com/97732446/221092374-20bcd502-a460-42a3-9033-a312757c76d8.png)
 
 3. One of the interesting libraries is MapKit. A map view display region. For example, in my case I show office location for users. 
 
@@ -42,12 +42,13 @@ How it’s looks:
 
 5.	This is Cart page where saved all your books that you will buy.
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 44](https://user-images.githubusercontent.com/97732446/221091974-936fd875-1864-49bd-b063-cea285303583.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 44](https://user-images.githubusercontent.com/97732446/221092314-0cf8f101-1a3d-40fb-a898-2ef4517dd9e3.png)
+
 
 
 6. Before buying some books, you need to add your card. 
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 49](https://user-images.githubusercontent.com/97732446/221091995-0a1478b4-6454-4633-ad2e-9a5dffa2fc4e.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 49](https://user-images.githubusercontent.com/97732446/221092334-26e79c20-580c-4987-9d30-cda386733222.png)
 
 
 That’s all stuff that I did for end term. It’s cover 100% according to my plan. I hope you find this interesting. 

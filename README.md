@@ -25,7 +25,7 @@ For storing emails and passwords I use Firebase. Before coding we should install
 2. After signup, you will direct on main page. As I said our app is about bookstore. By clicking item, you can buy book that you want. 
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 27 56](https://user-images.githubusercontent.com/97732446/221092354-6a060c3a-afc3-46d2-88c6-93ffe844c32f.png)
-![Uploading Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10.28.29.png…]()
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 29](https://user-images.githubusercontent.com/97732446/221092510-76fcec82-5f8e-46b5-8aa8-4b51150b8e9f.png)
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 59](https://user-images.githubusercontent.com/97732446/221092374-20bcd502-a460-42a3-9033-a312757c76d8.png)
 
 3. One of the interesting libraries is MapKit. A map view display region. For example, in my case I show office location for users. 

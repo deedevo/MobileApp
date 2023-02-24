@@ -24,8 +24,9 @@ For storing emails and passwords I use Firebase. Before coding we should install
 
 2. After signup, you will direct on main page. As I said our app is about bookstore. By clicking item, you can buy book that you want. 
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-11 at 15 37 44](https://user-images.githubusercontent.com/97732446/218251273-472b9e5d-3a6b-40f0-a0aa-b498f42ab892.png)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-11 at 02 02 09](https://user-images.githubusercontent.com/97732446/218251121-6a9ac85b-3358-4da2-8441-22cf102ccc88.png)
+![Uploading Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10.27.56.png…]()
+![Uploading Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10.28.29.png…]()![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 59](https://user-images.githubusercontent.com/97732446/221092051-65e7741e-9458-405e-a39b-a65288c63788.png)
+
 
 3. One of the interesting libraries is MapKit. A map view display region. For example, in my case I show office location for users. 
 
@@ -41,12 +42,13 @@ How it’s looks:
 
 5.	This is Cart page where saved all your books that you will buy.
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-11 at 01 51 45](https://user-images.githubusercontent.com/97732446/218251445-b483424f-2330-4278-9db2-43d5cc608c23.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 44](https://user-images.githubusercontent.com/97732446/221091974-936fd875-1864-49bd-b063-cea285303583.png)
+
 
 6. Before buying some books, you need to add your card. 
 
-![Simulator-Screen-Shot-iPhone-Xs-2019-05-29-at-15 55 20](https://user-images.githubusercontent.com/97732446/218251490-dbf27cdc-879c-4945-8bd5-06a3abedcc98.png)
-![Simulator-Screen-Shot-iPhone-Xs-2019-05-29-at-15 57 38](https://user-images.githubusercontent.com/97732446/218251494-6bb01430-ddd6-40dc-80c3-a1d6645a4071.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-24 at 10 28 49](https://user-images.githubusercontent.com/97732446/221091995-0a1478b4-6454-4633-ad2e-9a5dffa2fc4e.png)
+
 
 That’s all stuff that I did for end term. It’s cover 100% according to my plan. I hope you find this interesting. 
 
